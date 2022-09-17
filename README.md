@@ -5,7 +5,7 @@
 
 ✅ Windows 11 ✅ Windows 10   ❌ Windows 7
 
-Simple RustDesk Client Version Quick Support
+<b>Simple RustDesk Client Version Quick Support</b>
 
 - Juste un simple ID
 - Pas de mot de passe (Seul l'utilisateur distant peux accepter la connexion)
