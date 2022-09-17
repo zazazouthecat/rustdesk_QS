@@ -4,4 +4,4 @@
 
 Simple RustDesk Client Version Quick Support
 
-<img src="screen.jpg">
+<img src="screen.png">
