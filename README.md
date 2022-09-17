@@ -13,4 +13,4 @@
 <img src="screen.png">
 
 
-Cette version est a déployer sur les postes clients et le technicien utilisera la version standard dispo ici : https://github.com/rustdesk/rustdesk/releases/
+Cette version est a déployer (exe + dll) sur les postes clients et le technicien utilisera la version standard dispo ici : https://github.com/rustdesk/rustdesk/releases/
